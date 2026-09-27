@@ -12,7 +12,7 @@ The following ingredients will allow you to make the best pizza in the universe:
 - Dark matter 
 - Neutrinos  
 
-### Dough preparation and shaping the bases 
+## Dough preparation and shaping the bases 
 
 ### Tasks
 1. Mix the flour, water and other dough ingredients until a dough begins to form.
@@ -25,8 +25,8 @@ The following ingredients will allow you to make the best pizza in the universe:
 8. Keep the dough in a stable state and do not let it collapse.
 
 ### Estimated time
-Mixing and kneading: 15-20 minutes
-Resting and rising: approximately 1 hour
-Dividing and shaping: 10-15 minutes
+- Mixing and kneading: 15-20 minutes
+- Resting and rising: approximately 1 hour
+- Dividing and shaping: 10-15 minutes
 
-#### Sauce, topping and baking 
+## Sauce, topping and baking 
